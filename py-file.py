@@ -3,7 +3,7 @@ class Test:
         pass
 
     def test(self):
-        return False
+        return "Your Turn"
     
 test = Test()
 testOuput = test.test()
