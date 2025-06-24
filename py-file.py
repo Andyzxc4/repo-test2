@@ -3,7 +3,7 @@ class Test:
         pass
 
     def test(self):
-        return True
+        return False
     
 test = Test()
 testOuput = test.test()
